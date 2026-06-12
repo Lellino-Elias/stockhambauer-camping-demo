@@ -10,8 +10,7 @@ const stockhambauer: CampsiteConfig = {
   region: "Salzburg",
   regionLong: "Kleinarl · Salzburger Sportwelt · Ski Amadé",
 
-  theme: "alpin",
-  heroVariant: "left",
+  heroVariant: "center",
 
   brandKind: "Camping am BIO-Bauernhof",
 
