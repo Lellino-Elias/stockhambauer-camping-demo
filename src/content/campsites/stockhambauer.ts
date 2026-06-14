@@ -77,7 +77,7 @@ const stockhambauer: CampsiteConfig = {
       {
         title: "Ski-in direkt zum Lift",
         text: "Von deinem Stellplatz fährst du mit den Skiern über die meist verschneite Straße direkt zum Lift der Bergbahnen Kleinarl und in die Skiwelt Ski Amadé.",
-        image: { src: `${IMG}/wintercamping-skiin.webp`, alt: "Skipiste mit Blick auf das verschneite Kleinarl beim Camping Stockham" },
+        image: { src: `${IMG}/skipiste-praepariert.webp`, alt: "Frisch präparierte Skipiste mit Bergpanorama in der Skiwelt Ski Amadé bei Kleinarl" },
       },
       {
         title: "Sommercamping seit 2023",
