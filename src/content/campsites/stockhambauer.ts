@@ -112,7 +112,7 @@ const stockhambauer: CampsiteConfig = {
       "Vom verschneiten Hof bis zum klaren Bergsee im Sommer — ein paar Eindrücke vom Stockhamhof und seiner Umgebung in Kleinarl.",
     tag: "Kleinarl · 1014 m",
     images: [
-      { src: `${IMG}/ferienwohnung.webp`, alt: "Helle Ferienwohnung mit Massivholzmöbeln am Stockhamhof" },
+      { src: `${IMG}/wintercamping-skiin.webp`, alt: "Skifahrer auf der Piste in Kleinarl mit verschneitem Dorf im Hintergrund" },
       { src: `${IMG}/abenteuerland.webp`, alt: "Kinder spielen im Abenteuerland am Stockhamhof" },
       { src: `${IMG}/tappenkarsee.webp`, alt: "Klarer Bergsee Tappenkarsee in den Bergen über Kleinarl" },
       { src: `${IMG}/almhuette-grasreith.webp`, alt: "Traditionelle Almhütte Grasreith oberhalb von Kleinarl" },
