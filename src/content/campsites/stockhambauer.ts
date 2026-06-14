@@ -27,17 +27,17 @@ const stockhambauer: CampsiteConfig = {
   pillars: [
     {
       title: "Mit Ski direkt zum Lift",
-      text: "Vom Platz querst du nur die Straße zum Lift der Bergbahnen Kleinarl — und stehst mitten in der Skiwelt Ski Amadé mit über 270 Liften.",
+      text: "Nur die Straße trennt deinen Stellplatz vom Lift der Bergbahnen Kleinarl — mitten in Ski Amadé mit über 270 Liften.",
       image: { src: `${IMG}/ski-amade.webp`, alt: "Frisch präparierte Piste in Ski Amadé bei Kleinarl" },
     },
     {
       title: "Direkt an der Langlaufloipe",
-      text: "Der Campingplatz liegt unmittelbar an der Loipe — eine von acht Langlaufloipen, die bis zum Naturparadies Jägersee führen. Meist über 150 cm Schnee im Tal.",
+      text: "Direkt an der Loipe, einer von acht Langlaufrouten bis zum Naturparadies Jägersee — meist über 150 cm Schnee im Tal.",
       image: { src: `${IMG}/winter-loipe.webp`, alt: "Verschneite Winterlandschaft an der Langlaufloipe in Kleinarl" },
     },
     {
       title: "Echter BIO-Bauernhof",
-      text: "Der Stockhamhof ist ein mit 4 Blumen ausgezeichneter Bio-Bauernhof: täglich frische Bio-Heumilch, hofeigene Bioprodukte und Tiere zum Anfassen.",
+      text: "Der 4-Blumen-zertifizierte Bio-Bauernhof bietet täglich frische Heumilch, hofeigene Bioprodukte und Tiere zum Anfassen.",
       image: { src: `${IMG}/bio-bauernhof.webp`, alt: "Bäuerin mit Kuh im Stall des BIO-Bauernhofs Stockham" },
     },
   ],
@@ -76,12 +76,12 @@ const stockhambauer: CampsiteConfig = {
     features: [
       {
         title: "Ski-in direkt zum Lift",
-        text: "Von deinem Stellplatz fährst du mit den Skiern über die meist verschneite Straße direkt zum Lift der Bergbahnen Kleinarl und in die Skiwelt Ski Amadé.",
+        text: "Von deinem Stellplatz fährst du mit den Skiern direkt zum Lift der Bergbahnen Kleinarl und in die Skiwelt Ski Amadé.",
         image: { src: `${IMG}/skipiste-praepariert.webp`, alt: "Frisch präparierte Skipiste mit Bergpanorama in der Skiwelt Ski Amadé bei Kleinarl" },
       },
       {
         title: "Sommercamping seit 2023",
-        text: "Seit 2023 kannst du auch im Sommer bei uns campen: 5 Stellplätze mit Strom, Naturbadeteich, Sauna und alle Annehmlichkeiten des Hofs.",
+        text: "Seit 2023 kannst du auch im Sommer campen: 5 Stellplätze mit Strom, Naturbadeteich, Sauna und alle Hofannehmlichkeiten.",
         image: { src: `${IMG}/sommercamping-hof.webp`, alt: "Der Stockhamhof mit Wiesen und Spielplatz im Sommer" },
       },
     ],
